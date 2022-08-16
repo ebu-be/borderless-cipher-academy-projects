@@ -1,0 +1,23 @@
+body{
+    background-color: darkkhaki;
+}
+.header{
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#green{
+    margin: auto;
+    background-color: green;
+    width: 600px;
+    height:250px;
+    border-radius: 10px;
+}
+
+#white{
+    background-color: antiquewhite;
+    width: 200px;
+    height: 250px;
+    margin: auto;
+}
