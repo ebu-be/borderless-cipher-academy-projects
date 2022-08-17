@@ -50,7 +50,7 @@ body{
     align-items: flex-end;
     justify-content: space-around;
     flex-direction: column;
-    padding: 10px;
+    padding: 30px;
     word-wrap: break-word;
     word-break: break-all;
     border-top-left-radius: 20px;
