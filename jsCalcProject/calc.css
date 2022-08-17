@@ -23,6 +23,7 @@ body{
     box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19);
     border-radius: 25px;
     overflow: hidden;
+    padding: 25px;
 }
 
 .calcContainer > button{
@@ -52,8 +53,17 @@ body{
     padding: 10px;
     word-wrap: break-word;
     word-break: break-all;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
 }
 
+#rad{
+    border-bottom-left-radius: 20px;
+}
+
+#dar{
+    border-bottom-right-radius: 20px;
+}
 .screen .prevOperand{
     color: rgba(255, 255, 255, .75);
     font-size: 1.5rem;
